@@ -19,7 +19,6 @@ rm -f ${ORIG_TARBALL} ${REAL_TARBALL}
 
 cd ${ORIG_TARBALL_DIR}
 
-rm -rf TAO
 rm -rf ASNMP
 rm -rf performance-tests
 rm -rf rpmbuild debian
